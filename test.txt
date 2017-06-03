@@ -1,3 +1,4 @@
 hello world.
 work_branch1での作業結果です。
 test1ブランチでの作業結果です。
+test2ブランチの作業結果です。
